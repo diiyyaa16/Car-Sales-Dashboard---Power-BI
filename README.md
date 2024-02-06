@@ -14,3 +14,4 @@ Difference between YTD Average Price and PTYD Average Price
 YTD Cars Sold, MTD Cars Sold
 YOY Growth in Cars Sold
 Difference between YTD Cars Sold and PTYD Cars Sold
+<img width="692" alt="image" src="https://github.com/diiyyaa16/Car-Sales-Dashboard---Power-BI/assets/137419262/4dc64b16-e597-4119-928a-614b1b36a4f9">
